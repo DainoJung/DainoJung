@@ -11,3 +11,5 @@ Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 �
 - Dart
 - Firebase
 - Swift
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DainoJung)](https://github.com/DainoJung/github-readme-stats)
