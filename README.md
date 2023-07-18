@@ -12,4 +12,5 @@ Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 �
 - Firebase
 - Swift
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DainoJung)](https://github.com/DainoJung/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DainoJung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DainoJung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
