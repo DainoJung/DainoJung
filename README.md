@@ -2,7 +2,7 @@
 Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 하고 있습니다.
 
 ## 🛠️ Tech Skills 🛠️
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Rx](https://img.shields.io/badge/RxSwift%20&%20RxCocoa-B7178C?style=flat-square&logo=ReactiveX&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 - Flutter
 - Dart
 - Firebase
