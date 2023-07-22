@@ -1,6 +1,6 @@
 ## Daino : Flutter Programmer
 Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 하고 있습니다.
-Webflow로 웹 개발 경험이 있습니다.
+Webflow로 웹 개발 경험이 있습니다.   
 
 ## 🛠️ Tech Skills 🛠️
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white) 
@@ -14,21 +14,21 @@ Webflow로 웹 개발 경험이 있습니다.
 
 
 ## 🚴 Career
-- 🏢 2023.05 ~ 재직 중 [노마드맵](https://nomadmap.co.kr) 공동 창업자 & 풀스택 개발자 
+- 🏢 2023.05 ~ 재직 중 [노마드맵](https://nomadmap.co.kr) 공동 창업자 & 풀스택 개발자   
 
 ## 🙋 Experience
 - 👨‍👦‍👦 2022.06 ~ [PMC(Product Maker's Club)](https://disquiet.io/team/pmc-s23) S23
-- 👨‍👦‍👦 2023.02 ~ 2023.05 멋쟁이사자 스타트업 스테이션 5기
+- 👨‍👦‍👦 2023.02 ~ 2023.05 멋쟁이사자 스타트업 스테이션 5기   
 
 ## 📝 Education
 - 🖥 2022.12 ~ 2023.02 앨런 swift문법 마스터 스쿨
-- 👨🏻‍🎓 2019.03 ~ 2022.12 명지대학교 기계공학과 재학 (현재 휴학)
+- 👨🏻‍🎓 2019.03 ~ 2022.12 명지대학교 기계공학과 재학 (현재 휴학)   
 
 ## 😃 About Me
 - 개발 블로그를 작성하고 있습니다 <br>
-<a href="https://daino.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://daino.tistory.com/"/></a>
+<a href="https://daino.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://daino.tistory.com/"/></a>   
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DainoJung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DainoJung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DainoJung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)   
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fworldwideinfluencepeople&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
