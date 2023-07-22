@@ -7,14 +7,11 @@ Webflow로 웹 개발 경험이 있습니다.
 ![Flutter](https://img.shields.io/badge/Flutter-53B7F7?style=flat-square&logo=Flutter&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
+![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-- Flutter
-- Dart
-- Firebase
-- Swift
-- Webflow
+
 
 ## 🚴 Career
 - 🏢 2023.05 ~ 재직 중 [노마드맵](https://nomadmap.co.kr) 공동 창업자 & 풀스택 개발자 
