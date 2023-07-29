@@ -35,7 +35,7 @@ Webflow로 웹 개발 경험이 있습니다.
 
 ## 😃 About Me
 - 개발 블로그를 작성하고 있습니다<br>
-<a href="https://daino.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://daino.tistory.com/"/></a>
+<a href="https://daino.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://daino.tistory.com/"/></a>
 
 <br>
 
