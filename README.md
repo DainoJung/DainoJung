@@ -17,19 +17,19 @@ Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 �
 <br>
 
 ## 🚴 Career
-- 🏢 2023.05 ~ 재직 중 [풋풋](https://footfoot.co.kr) 공동 창업자 & 풀스택 개발자
+- 🏢 23.05 ~ 재직 중 [풋풋](https://footfoot.co.kr) 공동 창업자 & 풀스택 개발자
   
 <br>
 
 ## 🙋 Experience
-- 👨‍👦‍👦 2022.06 ~ [PMC(Product Maker's Club)](https://disquiet.io/team/pmc-s23) S23
-- 👨‍👦‍👦 2023.02 ~ 2023.05 멋쟁이사자 스타트업 스테이션 5기
+- 👨‍👦‍👦 22.06 ~ 22.08[PMC(Product Maker's Club)](https://disquiet.io/team/pmc-s23) S23
+- 👨‍👦‍👦 23.02 ~ 2023.05 멋쟁이사자 스타트업 스테이션 5기
   
 <br>
 
 ## 📝 Education
-- 🖥 2022.12 ~ 2023.02 앨런 swift문법 마스터 스쿨
-- 👨🏻‍🎓 2019.03 ~ 2022.12 명지대학교 기계공학과 재학 (현재 휴학)
+- 🖥 22.12 ~ 23.02 앨런 swift문법 마스터 스쿨
+- 👨🏻‍🎓 19.03 ~ 22.12 명지대학교 기계공학과 재학 (현재 휴학)
    
 <br>
 
