@@ -1,5 +1,6 @@
 ## Daino : Flutter Programmer
-Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 하고 있습니다.<br>
+Flutter로 앱 개발을 하고 있어요.<br>
+예쁜 앱을 개발하는것을 좋아합니다.<br>
 
 
 <br>
