@@ -17,7 +17,7 @@ Swift로 개발 공부를 시작해 현재 Flutter로 모바일 앱 개발을 �
 <br>
 
 ## 🚴 Career
-- 🏢 23.05 ~ 재직 중 [풋풋](https://footfoot.co.kr) 공동 창업자 & 풀스택 개발자
+- 🏢 23.04 ~ 재직 중 [풋풋](https://footfoot.co.kr) 공동 창업자 & 풀스택 개발자
   
 <br>
 
