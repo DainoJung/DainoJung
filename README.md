@@ -1,6 +1,6 @@
 ## Daino : Flutter Programmer
-Flutter로 앱 개발을 하고 있어요.<br>
-예쁜 앱을 개발하는것을 좋아합니다.<br>
+Flutter로 앱 개발을 하고 있어요.<br>  
+단순히 기능만 있는 앱이 아닌 아름다운 작품을 만들고 싶어요.<br>
 
 
 <br>
