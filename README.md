@@ -23,7 +23,7 @@ Flutter로 앱 개발을 하고 있어요.<br>
 <br>
 
 ## 🙋 Experience
-- 👨‍👦‍👦 22.06 ~ 22.08[PMC(Product Maker's Club)](https://disquiet.io/team/pmc-s23) S23
+- 👨‍👦‍👦 22.06 ~ 22.08[PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
 - 👨‍👦‍👦 23.02 ~ 2023.05 멋쟁이사자 스타트업 스테이션 5기
   
 <br>
