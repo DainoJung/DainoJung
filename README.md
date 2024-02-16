@@ -1,4 +1,4 @@
-## Daino : Flutter Programmer
+## Daino : Flutter Developer
 Flutter로 앱 개발을 하고 있어요.<br>  
 단순히 기능만 있는 앱이 아닌 아름다운 작품을 만들고 싶습니다.<br>
 
