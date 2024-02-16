@@ -23,15 +23,15 @@ Flutter로 앱 개발을 하고 있어요.<br>
 <br>
 
 ## 🙋 Experience
-- 👨‍👦‍👦 22.06 ~ 22.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
-- 👨‍👦‍👦 23.02 ~ 2023.05 멋쟁이사자 스타트업 스테이션 5기
+- 👨‍👦‍👦 23.06 ~ 23.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
+- 👨‍👦‍👦 23.02 ~ 23.05 멋쟁이사자 스타트업 스테이션 5기
   
 <br>
 
 ## 📝 Education
 - 👨🏻‍🎓 24.03 ~       명지대학교 경영정보 (전과 준비중)
 - 🖥 22.12 ~ 23.02 앨런 swift문법 마스터 스쿨
-- 👨🏻‍🎓 19.03 ~ 22.12 명지대학교 기계공학과
+- 👨🏻‍🎓 19.03 ~ 20.07 명지대학교 기계공학과
    
 <br>
 
