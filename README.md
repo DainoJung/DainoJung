@@ -1,7 +1,7 @@
 ## Daino : Flutter Developer
 I'm developing an app with Flutter.<br>
 I want to create something beautiful,<br>
-not just a functional app.<br>
+not just a functional Service.<br>
 
 <br>
 
@@ -23,9 +23,9 @@ not just a functional app.<br>
 <br>
 
 ## 🙋 Experience
-- 🤖 24.05 ~ 24.06 [Boostcourse Let's AI](http://www.boostcourse.org/certificate/A20240626-799133?langCode=ko) 리드부스터
+- 🤖 24.05 ~ 24.06 [Boostcourse Let's AI](http://www.boostcourse.org/certificate/A20240626-799133?langCode=ko) Lead Booster
 - 🧑🏻‍💻 23.06 ~ 23.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
-- 🚀 23.02 ~ 23.05 멋쟁이사자 스타트업 스테이션 5기
+- 🚀 23.02 ~ 23.05 Likelion Start-up Station 5th
   
 <br>
 
