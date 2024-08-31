@@ -43,7 +43,7 @@ not just a functional Service.<br>
 <br>
 
 ## 😃 About Me
-- Writing a development blog<br>
+- Writing a development blog 
 <a href="https://daino.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-F05A22?style=flat-square&logo=Tistory&logoColor=white&link=https://daino.tistory.com/"/></a>
 
 <br>
