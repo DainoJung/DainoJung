@@ -18,7 +18,7 @@ Flutter로 앱 개발을 하고 있어요.<br>
 <br>
 
 ## 🚴 Career
-- 🏢 23.04 ~ 23.12 [풋풋](https://nomadmap.co.kr) 공동 창업자 & 풀스택 개발자
+- 🏢 23.04 ~  [풋풋](https://nomadmap.co.kr) 공동 창업자 & 풀스택 개발자
   
 <br>
 
