@@ -1,7 +1,7 @@
 ## Daino : Flutter Developer
-Flutter로 앱 개발을 하고 있어요.<br>  
-단순히 기능만 있는 앱이 아닌 아름다운 작품을 만들고 싶습니다.<br>
-
+I'm developing an app with Flutter.<br>
+I want to create something beautiful,<br>
+not just a functional app.<br>
 
 <br>
 
@@ -18,25 +18,32 @@ Flutter로 앱 개발을 하고 있어요.<br>
 <br>
 
 ## 🚴 Career
-- 🏢 23.04 ~  [풋풋](https://nomadmap.co.kr) 공동 창업자 & 풀스택 개발자
+- 🏢 23.04 ~  [풋풋](https://nomadmap.co.kr) Co-Founder & Developer
   
 <br>
 
 ## 🙋 Experience
-- 👨‍👦‍👦 23.06 ~ 23.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
-- 👨‍👦‍👦 23.02 ~ 23.05 멋쟁이사자 스타트업 스테이션 5기
+- 🤖 24.05 ~ 24.06 [Boostcourse Let's AI](http://www.boostcourse.org/certificate/A20240626-799133?langCode=ko) 리드부스터
+- 🧑🏻‍💻 23.06 ~ 23.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
+- 🚀 23.02 ~ 23.05 멋쟁이사자 스타트업 스테이션 5기
   
 <br>
 
+## 🪪 Qualification🤖
+- 📊 24.06 APsP
+- 🎙️ 24.02 OPIc IH 
+
+<br>
+
 ## 📝 Education
-- 👨🏻‍🎓 24.03 ~       명지대학교 경영정보 (전과 준비중)
-- 🖥 22.12 ~ 23.02 앨런 swift문법 마스터 스쿨
-- 👨🏻‍🎓 19.03 ~ 20.07 명지대학교 기계공학과
+- 👨🏻‍🎓 24.03 ~       Myongji University Business Information (Preparing)
+- 🖥 22.12 ~ 23.02 Allen Swift Grammar Master School
+- 👨🏻‍🎓 19.03 ~ 20.07 Myongji University Mechanical Engineering
    
 <br>
 
 ## 😃 About Me
-- 개발 블로그를 작성하고 있습니다<br>
+- Writing a development blog<br>
 <a href="https://daino.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-F05A22?style=flat-square&logo=Tistory&logoColor=white&link=https://daino.tistory.com/"/></a>
 
 <br>
