@@ -18,7 +18,7 @@ not just a functional Service.<br>
 <br>
 
 ## 🚴 Career
-- 🏢 23.04 ~  [풋풋](https://nomadmap.co.kr) Co-Founder & Developer
+- 🏢 23.04 ~  [풋풋](https://nomadmap.co.kr) Co-Founder & Developer
   
 <br>
 
@@ -29,7 +29,7 @@ not just a functional Service.<br>
   
 <br>
 
-## 🪪 Qualification🤖
+## 🪪 Qualification
 - 📊 24.06 APsP
 - 🎙️ 24.02 OPIc IH 
 
