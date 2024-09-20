@@ -23,7 +23,7 @@ not just a functional Service.<br>
 <br>
 
 ## 🙋 Experience
-- 🤖 24.05 ~ 24.06 [Boostcourse Let's AI](http://www.boostcourse.org/certificate/A20240626-799133?langCode=ko) Lead Booster
+- 🤖 24.05 ~ 24.06 [Boostcourse Let's AI](https://www.boostcourse.org/certificate/A20240626-799133?langCode=en) Lead Booster
 - 🧑🏻‍💻 23.06 ~ 23.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
 - 🚀 23.02 ~ 23.05 Likelion Start-up Station 5th
   
