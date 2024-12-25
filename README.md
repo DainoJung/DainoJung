@@ -6,14 +6,12 @@ not just a functional Service.<br>
 <br>
 
 ## 🛠️ Tech Skills 🛠️
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white) 
+![Python](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-53B7F7?style=flat-square&logo=Flutter&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-2C394B?style=flat-square&logo=Firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 <br>
 
@@ -30,13 +28,14 @@ not just a functional Service.<br>
 <br>
 
 ## 🪪 Qualification
+- 📊 24.12 SQLD
 - 📊 24.06 APsP
 - 🎙️ 24.02 OPIc IH 
 
 <br>
 
 ## 📝 Education
-- 👨🏻‍🎓 24.03 ~       Myongji University Business Information (Preparing)
+- 👨🏻‍🎓 24.03 ~       Myongji University Business Information
 - 🖥 22.12 ~ 23.02 Allen Swift Grammar Master School
 - 👨🏻‍🎓 19.03 ~ 20.07 Myongji University Mechanical Engineering
    
