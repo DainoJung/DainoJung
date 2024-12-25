@@ -1,7 +1,5 @@
-## Daino : Flutter Developer
-I'm developing an app with Flutter.<br>
-I want to create something beautiful,<br>
-not just a functional Service.<br>
+## Daino : Data Analytics
+I view the world through data.
 
 <br>
 
