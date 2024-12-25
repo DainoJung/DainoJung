@@ -6,7 +6,7 @@ not just a functional Service.<br>
 <br>
 
 ## 🛠️ Tech Skills 🛠️
-![Python](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0175C2?style=flat-square&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-53B7F7?style=flat-square&logo=Flutter&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
