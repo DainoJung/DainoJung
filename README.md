@@ -15,7 +15,8 @@ I view the world through data.
 <br>
 
 ## 🚴 Career
-- 🏢 23.04 ~  [풋풋](https://nomadmap.co.kr) Co-Founder & Developer
+- 🍫 25.07 ~ [Vertical Bar](https://vertical.bar) AI Agent Builder
+- 🏢 23.04 ~ 23.12 [풋풋](https://nomadmap.co.kr) Co-Founder & Developer
   
 <br>
 
