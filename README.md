@@ -17,11 +17,12 @@ I view the world through data.
 
 ## 🚴 Career
 - 🍫 25.07 ~ [Vertical Bar](https://vertical.bar) AI Agent Builder
-- 🏢 23.04 ~ 23.12 [풋풋](https://nomadmap.co.kr) Co-Founder & Developer
+- 🏢 23.04 ~ 23.12 [FootFoot](https://nomadmap.co.kr) Co-Founder & Developer
   
 <br>
 
 ## 🙋 Experience
+- 📊 25.01 ~ 25.12 [BOAZ](https://www.bigdataboaz.com/) Data Visualization 24th
 - 🤖 24.05 ~ 24.06 [Boostcourse Let's AI](https://www.boostcourse.org/certificate/A20240626-799133?langCode=en) Lead Booster
 - 🧑🏻‍💻 23.06 ~ 23.08 [PMC(Product Maker's Club)](https://disquiet.io/club/makerhouse) S23
 - 🚀 23.02 ~ 23.05 Likelion Start-up Station 5th
@@ -36,7 +37,7 @@ I view the world through data.
 <br>
 
 ## 📝 Education
-- 👨🏻‍🎓 24.03 ~       Myongji University Business Information
+- 👨🏻‍🎓 24.03 ~ 26.02 Myongji University Management Information System
 - 🖥 22.12 ~ 23.02 Allen Swift Grammar Master School
 - 👨🏻‍🎓 19.03 ~ 20.07 Myongji University Mechanical Engineering
    
