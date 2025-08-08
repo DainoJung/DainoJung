@@ -1,6 +1,6 @@
 ## Daino : Data Analytics
 
-I view the world through data.
+I view the world through Data&AI.
 
 <br>
 
