@@ -5,8 +5,6 @@ I view the world through Data&AI.
 <br>
 
 ## 🛠️ Tech Skills 🛠️
-## 🛠️ Tech Skills 🛠️
-
 ![Python](https://img.shields.io/badge/Python-0175C2?style=flat-square&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white)
