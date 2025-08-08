@@ -26,13 +26,13 @@ I view the world through Data&AI.
 
 ## 🚀 Active Projects
 
+[![Obscura](https://img.shields.io/badge/Obscura-92B4EC?style=flat-square)](https://obscura.software)  
+An AI-powered Agent tool that helps researchers visualize and analyze paper data with minimal effort.  
+🧠 Currently operating as an MVP
+
 [![Algovote](https://img.shields.io/badge/Algovote-DAF7A6?style=flat-square)](https://algovote.info)  
 A political platform that compares Korean lawmakers’ policies and recommends candidates based on issue alignment.  
 📈 Reached 1,000+ daily active users (DAU)
-
-[![Obscura](https://img.shields.io/badge/Obscura-92B4EC?style=flat-square)](https://obscura.software)  
-An AI-powered tool that helps researchers visualize and analyze paper data with minimal effort.  
-🧠 Currently operating as an MVP using Doc2API framework
 
 <br>
 
