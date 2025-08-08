@@ -5,13 +5,18 @@ I view the world through Data&AI.
 <br>
 
 ## 🛠️ Tech Skills 🛠️
+## 🛠️ Tech Skills 🛠️
+
 ![Python](https://img.shields.io/badge/Python-0175C2?style=flat-square&logo=Python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0175C2?style=flat-square&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0064FA?style=flat-square&logo=LangGraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-7E3AF2?style=flat-square&logo=LangChain&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-53B7F7?style=flat-square&logo=Flutter&logoColor=white) 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-2C394B?style=flat-square&logo=Firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 <br>
 
