@@ -20,6 +20,7 @@ I view the world through Data&AI.
 
 ## 🚴 Career
 - 🍫 25.07 ~ [Vertical Bar](https://vertical.bar) AI Agent Builder
+- 📊 25.04 ~ [Obscura](https://obscura.software) Founder
 - 🏢 23.04 ~ 23.12 [FootFoot](https://nomadmap.co.kr) Co-Founder & Developer
   
 <br>
