@@ -135,47 +135,6 @@ class Daino:
 
 </div>
 
-> 💡 *Snake animation requires [Platane/snk](https://github.com/Platane/snk) GitHub Action setup — see below*
-
-<details>
-<summary>🔧 <b>Snake Action Setup Guide</b></summary>
-
-<br/>
-
-1. Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DainoJung
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Run the workflow manually once, then it updates daily!
-
-</details>
-
----
-
 ## 🎓 Background
 
 <div align="center">
