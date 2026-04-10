@@ -68,21 +68,44 @@ class Daino:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/DainoJung/tokenwise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DainoJung&repo=tokenwise&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | Description | Highlight |
-|:--------|:------------|:----------|
-| **🔬 Obscura** | AI Agent for research paper visualization & analysis | MVP Stage |
-| **💰 TokenWise** | Token optimization SDK for Agentic AI | Open Source |
-| **🗳️ Algovote** | Korean lawmakers' policy comparison platform | 1,000+ DAU |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔬 Obscura</h3>
+      <p align="center">AI-powered Agent for research paper visualization & analysis</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stage-MVP-58a6ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 <a href="https://github.com/DainoJung/tokenwise">TokenWise</a></h3>
+      <p align="center">Spend less, Agent more — Token optimization SDK for Agentic AI</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Open_Source-30363d?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🗳️ Algovote</h3>
+      <p align="center">Korean lawmakers' policy comparison platform</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/DAU-1,000+-ff6e40?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 More Coming Soon...</h3>
+      <p align="center">Building the future of Agentic AI</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stay_Tuned-58a6ff?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -90,24 +113,21 @@ class Daino:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DainoJung&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DainoJung&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DainoJung&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DainoJung&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DainoJung&theme=github_dark" />
+<img width="49%" src="https://streak-stats.demolab.com?user=DainoJung&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
----
-
-## 🏆 Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DainoJung&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DainoJung&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DainoJung&theme=github_dark" />
 
 </div>
 
@@ -134,6 +154,47 @@ class Daino:
 </picture>
 
 </div>
+
+> 💡 *Snake animation requires [Platane/snk](https://github.com/Platane/snk) GitHub Action setup — see below*
+
+<details>
+<summary>🔧 <b>Snake Action Setup Guide</b></summary>
+
+<br/>
+
+1. Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: DainoJung
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Run the workflow manually once, then it updates daily!
+
+</details>
+
+---
 
 ## 🎓 Background
 
